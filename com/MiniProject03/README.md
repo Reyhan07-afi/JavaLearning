@@ -6,8 +6,8 @@ This project implements sorting algorithms, searching algorithms, generic collec
 ## **🚀 Project Objective**
 
 To develop a consolidated Algorithmic Toolkit that demonstrates core DSA concepts, clean coding practices, modularization, and algorithm efficiency analysis.
-## **🧠 Features
-🔹1. SortingUtil**
+## **🧠 Features**
+### 🔹*1. SortingUtil*
 
 Implements four sorting algorithms:
 
@@ -27,7 +27,7 @@ Time and space complexity notes
 
 Test cases
 
-## 🔹 2. SearchUtil
+### 🔹 *2. SearchUtil*
 
 Includes:
 
@@ -43,7 +43,7 @@ Complexity notes
 
 Test cases
 
-## 🔹 3. CollectionUtil (Generic)
+### 🔹 *3. CollectionUtil (Generic)*
 
 Implements simplified generic:
 
@@ -51,7 +51,7 @@ Stack (push, pop, peek, isEmpty)
 
 Queue (enqueue, dequeue, peek, isEmpty)
 
-## 🔹 4. AnalysisUtil
+### 🔹 *4. AnalysisUtil*
 
 A benchmarking helper utility:
 
@@ -61,7 +61,7 @@ Supports lambda functions
 
 Prints execution duration in milliseconds
 
-## 🧪 Test Cases
+### *🧪 Test Cases*
 
 Each method across all classes includes at least two test cases, covering:
 
