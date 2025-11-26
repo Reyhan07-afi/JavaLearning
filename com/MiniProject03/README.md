@@ -11,64 +11,64 @@ To develop a consolidated Algorithmic Toolkit that demonstrates core DSA concept
 
 Implements four sorting algorithms:
 
-Bubble Sort
+- Bubble Sort
 
-Insertion Sort
+- Insertion Sort
 
-Merge Sort
+- Merge Sort
 
-Quick Sort
+- Quick Sort
 
-Each method includes:
+- Each method includes:
 
-Method documentation
+- Method documentation
 
-Time and space complexity notes
+- Time and space complexity notes
 
-Test cases
+- Test cases
 
 ### 🔹 *2. SearchUtil*
 
 Includes:
 
-Linear Search
+- Linear Search
 
-Binary Search
+- Binary Search
 
 With:
 
-Javadoc comments
+- Javadoc comments
 
-Complexity notes
+- Complexity notes
 
-Test cases
+- Test cases
 
 ### 🔹 *3. CollectionUtil (Generic)*
 
 Implements simplified generic:
 
-Stack (push, pop, peek, isEmpty)
+- Stack (push, pop, peek, isEmpty)
 
-Queue (enqueue, dequeue, peek, isEmpty)
+- Queue (enqueue, dequeue, peek, isEmpty)
 
 ### 🔹 *4. AnalysisUtil*
 
 A benchmarking helper utility:
 
-timer(Runnable task) – Measures execution time of any algorithm
+- timer(Runnable task) – Measures execution time of any algorithm
 
-Supports lambda functions
+- Supports lambda functions
 
-Prints execution duration in milliseconds
+- Prints execution duration in milliseconds
 
 ### *🧪 Test Cases*
 
-Each method across all classes includes at least two test cases, covering:
+- Each method across all classes includes at least two test cases, covering:
 
-Sorting with repeated elements
+- Sorting with repeated elements
 
-Searching for existing & non-existing values
+- Searching for existing & non-existing values
 
-Stack/Queue operations
+- Stack/Queue operations
 
-Performance measurement
+- Performance measurement
